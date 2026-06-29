@@ -250,6 +250,10 @@
 
 ---
 
-**Author**
+## Contact & Portfolio
 
-Desmond Achusi Onyedikachukwu
+**Creator:** Achusi Desmond
+- Portfolio: [My Story](https://achusi-desmond.vercel.app/)
+- GitHub: [Dessybabybaby](https://github.com/Dessybabybaby)
+- LinkedIn: [Achusi Desmond](https://linkedin.com/in/achusi-desmond)
+- Medium: [Achusi Desmond](https://medium.com/@achusidesmond4)
