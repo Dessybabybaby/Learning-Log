@@ -123,8 +123,8 @@
 |------|--------|---------|
 | 1 | Cloud Infrastructure | ✅ |
 | 2 | File Management | ✅ |
-| 3 | Communication | 🟡 |
-| 4 | Marketing | ⬜ |
+| 3 | Communication | ✅ |
+| 4 | Marketing | 🟡 |
 | 5 | Lead Generation | ⬜ |
 | 6 | Automation | ⬜ |
 
